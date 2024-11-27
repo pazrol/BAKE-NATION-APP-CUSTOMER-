@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "537908387516",
+    "firebase_url": "https://bake-nation-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bake-nation",
+    "storage_bucket": "bake-nation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537908387516:android:906347bd2815e4bee2bab9",
+        "android_client_info": {
+          "package_name": "com.example.bakenation_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537908387516-0h0h6qrn76regmcqts2ud64ha3rmsubq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyQ8edF24YisGtcKT68Gu7U6PvHoDtqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537908387516-0h0h6qrn76regmcqts2ud64ha3rmsubq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537908387516-ie9f8r383ep0s7kl4ag29scq07691vng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bakenationStaff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537908387516:android:c383c526d498211de2bab9",
+        "android_client_info": {
+          "package_name": "com.example.bakenation_staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537908387516-0h0h6qrn76regmcqts2ud64ha3rmsubq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyQ8edF24YisGtcKT68Gu7U6PvHoDtqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537908387516-0h0h6qrn76regmcqts2ud64ha3rmsubq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537908387516-ie9f8r383ep0s7kl4ag29scq07691vng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bakenationStaff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537908387516:android:0b6ee66b43903b68e2bab9",
+        "android_client_info": {
+          "package_name": "com.example.bakenationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537908387516-0h0h6qrn76regmcqts2ud64ha3rmsubq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyQ8edF24YisGtcKT68Gu7U6PvHoDtqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537908387516-0h0h6qrn76regmcqts2ud64ha3rmsubq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537908387516-ie9f8r383ep0s7kl4ag29scq07691vng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bakenationStaff"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
